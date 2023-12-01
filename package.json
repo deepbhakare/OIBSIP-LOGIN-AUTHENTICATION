@@ -1,8 +1,11 @@
 {
+  "homepage": "https://deepbhakare.github.io/OIBSIP-LOGIN-AUTHENTICATION",
   "name": "login-authentication",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -17,6 +20,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
+    "gh-pages": "^6.1.0",
     "postcss": "^8",
     "tailwindcss": "^3.3.0"
   }
