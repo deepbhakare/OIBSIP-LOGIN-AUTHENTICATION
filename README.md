@@ -39,9 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Login-Athentication using Clerk with Next.js
 
 <kbd>
-![alt text](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/blob/main/images?raw=true)
-
-
+![login](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/assets/136368452/f38b4169-3c93-4b8e-a5ea-683d69ba5eca)
 </kbd>
 
 ### A starter template for modern web development with nextjs 13 (app route), tailwindcss, typescript, trpc, clerk auth, and prisma.
