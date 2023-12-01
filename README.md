@@ -40,7 +40,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 <kbd>
 
-![login](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/blob/main/loginpage.png?raw=true)
+![login](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/blob/main/loginPage.png?raw=true)
 
 </kbd>
 
