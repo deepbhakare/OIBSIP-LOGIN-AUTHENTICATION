@@ -39,8 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Login-Athentication using Clerk with Next.js
 
 <kbd>
-![alt text](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION
-/blob/main/Image library/loginPage.png?raw=true)
+![alt text](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/tree/main/images?raw=true)
 
 
 </kbd>
