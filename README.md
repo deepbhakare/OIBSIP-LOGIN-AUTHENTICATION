@@ -41,7 +41,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ![login](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/assets/136368452/f38b4169-3c93-4b8e-a5ea-683d69ba5eca)
 https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/tree/main/images
-![alt text](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/blob/main/images/logo.png?raw=true)
+![alt text](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/blob/main/images/login.png?raw=true)
 
 
 
