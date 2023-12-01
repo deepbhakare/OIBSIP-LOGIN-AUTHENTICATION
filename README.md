@@ -68,7 +68,7 @@ CLERK_SECRET_KEY =
 1. Clone the repository
 
 ```bash
-git clone https://github.com/sujjeee/codox.git
+git clone https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION.git
 ```
 
 2. Install dependencies using pnpm
