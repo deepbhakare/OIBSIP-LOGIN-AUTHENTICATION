@@ -6,7 +6,7 @@ const Header = () => {
   const { userId } = auth();
   return (
     <>
-      <nav className="bg-gradient-to-r from-indigo-500 to-black py-4 px-6 flex items-center justify-between mb-5">
+      <nav className="bg-gradient-to-r from-gray-700 via-gray-900 to-black py-4 px-6 flex items-center justify-between mb-5">
         <div className="flex items-center">
           <Link href="/">
             <div className="text-lg uppercase font-bold text-white">
