@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/blob/main/images/login.png?raw=true)
 
-### A login template for Modern Web Development with Clerk auth with Next.js 13 (app route), Tailwindcss, Typescript.
+### A login template for Modern Web Development with Clerk auth using Next.js 13 (app route), Tailwindcss, Typescript.
 
 ## Tech Stacks 💻
 
@@ -13,6 +13,12 @@
 - 💅 [Tailwind CSS](https://tailwindcss.com) — A utility-first CSS framework for rapid UI development
 - 🔒 [Clerk](https://clerk.com?utm_source=github&utm_medium=sponsorship&utm_campaign=nextjs-boilerplate) — A complete user management solution with authentication, profiles, and more
 - 🛠 [ESLint](https://eslint.org) — A tool for finding and fixing code issues and enforcing code style
+
+## Preview 🔥
+
+![alt text](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/blob/main/images/signup.png?raw=true)
+![alt text](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/blob/main/images/profile.png?raw=true)
+![alt text](https://github.com/deepbhakare/OIBSIP-LOGIN-AUTHENTICATION/blob/main/images/userbutton.png?raw=true)
 
 ## Environment Variables 🌎
 
