@@ -6,7 +6,6 @@ const DashboardPage = () => {
       <h1 className={styles.error}>
         🎉 Congratulations! You've successfully logged in.
       </h1>
-      <p className={styles.p}>Welcome to the dash</p>
     </>
   );
 };
